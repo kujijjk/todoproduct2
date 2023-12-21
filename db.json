@@ -1,0 +1,32 @@
+{
+	"products": [
+		{
+			"title": "Вторжение Титанов (Атака титанов)",
+			"year": "2024",
+			"descr": "Фэнтези",
+			"image": "http://www.ts.kg/posters2/shingeki_no_kyojin.png",
+			"id": 1
+		},
+		{
+			"title": "Гарри Поттер. Коллекция",
+			"year": "1998",
+			"descr": "Экранизация",
+			"image": "http://www.ts.kg/posters2/harry_potter.png",
+			"id": 2
+		},
+		{
+			"title": "Губка Боб квадратные штаны",
+			"year": "1999",
+			"descr": "Комедия",
+			"image": "http://www.ts.kg/posters2/spongebob.png",
+			"id": 3
+		},
+		{
+			"title": "Симпсоны",
+			"year": "1989",
+			"descr": "Пародия",
+			"image": "http://www.ts.kg/posters2/simpsons.png",
+			"id": 4
+		}
+	]
+}
